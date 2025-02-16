@@ -89,7 +89,7 @@ interface Bank{
 }
 ```
 
-#### Inheritance with respect to interface:
+#### Inheritance with respect to class:
 ##### Example:
 ```java
 interface Company{
